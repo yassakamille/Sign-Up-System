@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="or">or</string>
+
+    <string name="enter_your_phone_number">Enter your Phone number</string>
+
+    <string name="enter_your_e_mail">Enter your E-mail</string>
+    <string name="App_name">Movie Show</string>
+</resources>
